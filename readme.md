@@ -18,6 +18,6 @@
 
 ## 🚀 Como Visulizar
 - *GitHub* — (EmBreve)
-- *Netlify* — (EmBreve)
+- *Netlify* — https://astonishing-centaur-e1897c.netlify.app/
 
 
