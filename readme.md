@@ -28,7 +28,7 @@ Ela vai muito além de contas básicas — tem **presença**, **atitude** e até
 ## 🚀 Como Visualizar
 
 - **GitHub:** *em breve*  
-- **Netlify:** [Clique aqui para acessar](https://astonishing-centaur-e1897c.netlify.app/)
+- **Netlify:** [Clique aqui para acessar](https://calculupurplevibe.netlify.app/)
 
 ---
 
